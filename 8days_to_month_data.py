@@ -67,7 +67,7 @@ def month_statistics(year_para, month_para):
     return first_day_month, first_day_next_month, days_of_month
 
 
-lai_8days_folder_path = r'E:\LAI'
+lai_8days_folder_path = r'E:\NPP'
 for year_index in os.listdir(lai_8days_folder_path):
     lai_8days_year_folder_path = os.path.join(lai_8days_folder_path, year_index)
     lai_paths = sorted(glob.glob(os.path.join(lai_8days_year_folder_path, '*.tif')))
