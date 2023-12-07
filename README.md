@@ -1,4 +1,4 @@
-# Learning-in-Sun-Yat-sen-University
+# Learning in Sun Yat-sen University
 My learning process 
 这是我在中山大学研究生阶段经常所用到的程序，除了为自己留下印象之外，还希望能帮助其他有需要的人。
 目前列表：
